@@ -1,0 +1,11 @@
+Veterinarian,Ben Casey,32,3,Small Animals,,
+Veterinarian,Hawkeye Pierce,47,3,Large Animals,,
+Veterinarian,Doogie Howser,22,1,Horses,,
+InsuredAnimal,Fred Bear,2,Ben Casey,HCF236788,10, Cockerspaniel
+Animal,Betty Bird,3,7,Budgerigar,,
+InsuredAnimal,Bella Plant,3,Ben Casey,HCF265123,23, Rabbit
+InsuredAnimal,Dagwood Dog,8,Doogie Howser,HCF265988,2, Labrador
+InsuredAnimal,Ernie,2,Ben Casey,HCF134231,1, Guinea Pig 
+Animal,Tinkerbell,4,1,Siamese cat,,
+Animal,Slinky,1,1,Blue Tongue Lizard,,
+InsuredAnimal,Mickey Mouse,5,Ben Casey,HCF234511,1, Mouse

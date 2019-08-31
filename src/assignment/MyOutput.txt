@@ -1,0 +1,212 @@
+___________________
+
+List of registered veterinarians
+___________________
+
+*******************
+ Dr Ben Casey
+	 id number: V1000
+	 Max Number of Patients: 3
+No animals assigned to this veterinarian as yet
+*******************
+ Dr Hawkeye Pierce
+	 id number: V1001
+	 Max Number of Patients: 3
+No animals assigned to this veterinarian as yet
+*******************
+ Dr Doogie Howser
+	 id number: V1002
+	 Max Number of Patients: 1
+No animals assigned to this veterinarian as yet
+
+
+___________________
+
+List of animals before veterinarians assigned
+___________________
+
+Insured Animal - Fred Bear
+	 Identifier: P100000
+	 Preferred Veterinarian: Ben Casey
+	 Insured Health Fund Number: HCF236788
+	 Assigned Veterinarian: not assigned as yet
+
+Uninsured Animal - Betty Bird
+	 Identifier: P100001
+	 Assigned Veterinarian: not assigned as yet
+
+Insured Animal - Bella Plant
+	 Identifier: P100002
+	 Preferred Veterinarian: Ben Casey
+	 Insured Health Fund Number: HCF265123
+	 Assigned Veterinarian: not assigned as yet
+
+Insured Animal - Dagwood Dog
+	 Identifier: P100003
+	 Preferred Veterinarian: Doogie Howser
+	 Insured Health Fund Number: HCF265988
+	 Assigned Veterinarian: not assigned as yet
+
+Insured Animal - Ernie
+	 Identifier: P100004
+	 Preferred Veterinarian: Ben Casey
+	 Insured Health Fund Number: HCF134231
+	 Assigned Veterinarian: not assigned as yet
+
+Uninsured Animal - Tinkerbell
+	 Identifier: P100005
+	 Assigned Veterinarian: not assigned as yet
+
+Uninsured Animal - Slinky
+	 Identifier: P100006
+	 Assigned Veterinarian: not assigned as yet
+
+Insured Animal - Mickey Mouse
+	 Identifier: P100007
+	 Preferred Veterinarian: Ben Casey
+	 Insured Health Fund Number: HCF234511
+	 Assigned Veterinarian: not assigned as yet
+
+
+___________________
+
+ Assigning Veterinarians to Animals
+___________________
+Assigning veterinarian Ben Casey to Fred Bear
+Assigning veterinarian Ben Casey to Betty Bird
+Assigning veterinarian Ben Casey to Bella Plant
+Assigning veterinarian Doogie Howser to Dagwood Dog
+Assigning veterinarian Hawkeye Pierce to Ernie
+Assigning veterinarian Hawkeye Pierce to Tinkerbell
+Assigning veterinarian Hawkeye Pierce to Slinky
+
+********************************************************************
+ Not yet assigned animal Mickey Mouse- No available veterinarians
+********************************************************************
+Will need to reassign Insured Animal Mickey Mouse to a different clinic
+
+___________________
+
+List of animals after veterinarians assigned
+___________________
+Insured Animal - Fred Bear
+	 Identifier: P100000
+	 Preferred Veterinarian: Ben Casey
+	 Insured Health Fund Number: HCF236788
+	 Assigned Veterinarian: Ben Casey
+	 Fee for 10 hours consultation = $1000.0
+
+Uninsured Animal - Betty Bird
+	 Identifier: P100001
+	 Assigned Veterinarian: Ben Casey
+	 Fee for 7 hours consultation = $700.0
+
+Insured Animal - Bella Plant
+	 Identifier: P100002
+	 Preferred Veterinarian: Ben Casey
+	 Insured Health Fund Number: HCF265123
+	 Assigned Veterinarian: Ben Casey
+	 Fee for 23 hours consultation = $2300.0
+
+Insured Animal - Dagwood Dog
+	 Identifier: P100003
+	 Preferred Veterinarian: Doogie Howser
+	 Insured Health Fund Number: HCF265988
+	 Assigned Veterinarian: Doogie Howser
+	 Fee for 2 hours consultation = $200.0
+
+Insured Animal - Ernie
+	 Identifier: P100004
+	 Preferred Veterinarian: Ben Casey
+	 Insured Health Fund Number: HCF134231
+	 Assigned Veterinarian: Hawkeye Pierce
+	 Fee for 1 hours consultation = $100.0
+
+Uninsured Animal - Tinkerbell
+	 Identifier: P100005
+	 Assigned Veterinarian: Hawkeye Pierce
+	 Fee for 1 hours consultation = $100.0
+
+Uninsured Animal - Slinky
+	 Identifier: P100006
+	 Assigned Veterinarian: Hawkeye Pierce
+	 Fee for 1 hours consultation = $100.0
+
+Insured Animal - Mickey Mouse
+	 Identifier: P100007
+	 Preferred Veterinarian: Ben Casey
+	 Insured Health Fund Number: HCF234511
+	 Assigned Veterinarian: not assigned as yet
+
+___________________
+
+List of veterinarians after animals assigned
+___________________
+
+*******************
+ Dr Ben Casey
+	 id number: V1000
+	 Max Number of Patients: 3
+
+List of Animals registered for Dr Ben Casey
+
+Insured Animal - Fred Bear
+	 Identifier: P100000
+	 Preferred Veterinarian: Ben Casey
+	 Insured Health Fund Number: HCF236788
+	 Assigned Veterinarian: Ben Casey
+	 Fee for 10 hours consultation = $1000.0
+
+Uninsured Animal - Betty Bird
+	 Identifier: P100001
+	 Assigned Veterinarian: Ben Casey
+	 Fee for 7 hours consultation = $700.0
+
+Insured Animal - Bella Plant
+	 Identifier: P100002
+	 Preferred Veterinarian: Ben Casey
+	 Insured Health Fund Number: HCF265123
+	 Assigned Veterinarian: Ben Casey
+	 Fee for 23 hours consultation = $2300.0
+
+
+*******************
+ Dr Hawkeye Pierce
+	 id number: V1001
+	 Max Number of Patients: 3
+
+List of Animals registered for Dr Hawkeye Pierce
+
+Insured Animal - Ernie
+	 Identifier: P100004
+	 Preferred Veterinarian: Ben Casey
+	 Insured Health Fund Number: HCF134231
+	 Assigned Veterinarian: Hawkeye Pierce
+	 Fee for 1 hours consultation = $100.0
+
+Uninsured Animal - Tinkerbell
+	 Identifier: P100005
+	 Assigned Veterinarian: Hawkeye Pierce
+	 Fee for 1 hours consultation = $100.0
+
+Uninsured Animal - Slinky
+	 Identifier: P100006
+	 Assigned Veterinarian: Hawkeye Pierce
+	 Fee for 1 hours consultation = $100.0
+
+
+*******************
+ Dr Doogie Howser
+	 id number: V1002
+	 Max Number of Patients: 1
+
+List of Animals registered for Dr Doogie Howser
+
+Insured Animal - Dagwood Dog
+	 Identifier: P100003
+	 Preferred Veterinarian: Doogie Howser
+	 Insured Health Fund Number: HCF265988
+	 Assigned Veterinarian: Doogie Howser
+	 Fee for 2 hours consultation = $200.0
+
+
